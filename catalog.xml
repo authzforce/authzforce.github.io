@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+<!--	<system systemId="http://www.w3.org/2001/xml.xsd" uri="xml.xsd" />-->
+	<uri name="urn:oasis:names:tc:xacml:3.0:core:schema:wd-17" uri="https://docs.oasis-open.org/xacml/3.0/xacml-core-v3-schema-wd-17.xsd" />
+	<uri name="http://authzforce.github.io/xmlns/pdp/ext/3" uri="https://raw.githubusercontent.com/authzforce/parent/release-7.5.1/pdp-ext-model/src/main/resources/pdp-ext-base.xsd" />
+</catalog>
